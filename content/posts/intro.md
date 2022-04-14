@@ -1,6 +1,6 @@
 ---
 title: "La Cultura en el Desarrollo de Software"
-date: 2022-04-14
+date: 2022-14-04
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
