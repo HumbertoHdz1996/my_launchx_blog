@@ -8,16 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://humbertohdz1996.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>La Cultura en el Desarrollo de Software</title>
-      <link>https://humbertohdz1996.github.io/my_launchx_blog/posts/intro/</link>
-      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://humbertohdz1996.github.io/my_launchx_blog/posts/intro/</guid>
-      <description>Para mi las caracteristicas mas importantes para un desarrollador deben ser:
- Responsabilidad Dedicación Respeto Perseverancia  </description>
-    </item>
-    
-    <item>
       <title>Mi ruta de aprendizaje en LaunchX</title>
       <link>https://humbertohdz1996.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
@@ -25,6 +15,16 @@
       <guid>https://humbertohdz1996.github.io/my_launchx_blog/posts/post_1/</guid>
       <description>Hola! Esta es mi experiencia hasta ahora como parte de LaunchX en Innovacción Virtual Hasta el momento he aprendido, o mejorado según sea el caso, las siguientes habilidades
  Python Logica de programación Uso de Jupyter Notebooks Uso de HTML Estilos con css Funcionalidad con JS Conexión y uso de API&amp;rsquo;s GitHub  Eso es todo por el momento y espero aprender aun mas en la parte Back-End</description>
+    </item>
+    
+    <item>
+      <title>La Cultura en el Desarrollo de Software</title>
+      <link>https://humbertohdz1996.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://humbertohdz1996.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Para mi las caracteristicas mas importantes para un desarrollador deben ser:
+ Responsabilidad Dedicación Respeto Perseverancia  </description>
     </item>
     
   </channel>
