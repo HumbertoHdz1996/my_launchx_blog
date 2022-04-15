@@ -1,5 +1,6 @@
 ---
-title: 'Mi Blog, humilde, pero mio'
+title: 'Mi Blog'
+description: 'Humilde, pero mio'
 date: 2019-02-24
 menu:
   main:
