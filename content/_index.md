@@ -16,4 +16,4 @@ Mis expectativas para este proyecto son simples al ser mi primer acercamiento:
 🚀
 
 
-#### El Link de este repositorio es este: https://github.com/HumbertoHdz1996/my_launchx_blog<br>(Es el fork de otro proyecto por ser mi primer acercamiento a esta herramienta, por favor dejen sus sujerencias para mejorar en mi repo)
+#### El Link de este repositorio es este: https://github.com/HumbertoHdz1996/my_launchx_blog <br> (Es el fork de otro proyecto por ser mi primer acercamiento a esta herramienta, por favor dejen sus sujerencias para mejorar en mi repo)
